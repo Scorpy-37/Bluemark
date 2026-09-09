@@ -1,0 +1,12 @@
+mistralai/ministral-3-14b-reasoning
+google/gemma-4-12b-qat
+openai/gpt-oss-20b
+deepseek-v4-pro-qwen3.5-9b-mtp
+qwen3.8-9b-distill
+prism-ml/bonsai-27b
+ornith-1.5-9b
+nanbeige4.2-3b
+ling-3.0-tiny
+ibm/granite-3.2-8b
+google/gemma-4-e4b
+muse-glimmer-30b

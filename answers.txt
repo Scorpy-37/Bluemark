@@ -1,0 +1,18 @@
+"sudo certbot renew"
+"The Fibonacci sequence"
+"Étienne Léopold Trouvelot"
+"260.597938144"
+"-(pi/2) ln 2."
+"(3, 2), (17, 12), (99, 70)"
+Doesn't work = 0, works partly, is janky or doesn't fully follow prompt = 0.5, works fine = 1 [HTML]
+Doesn't work/errors = 0, works partly, is janky or doesn't fully follow prompt = 0.5, works fine = 1 [CODE]
+Doesn't work/errors = 0, works partly, is janky or doesn't fully follow prompt = 0.5, works fine = 1 [CODE]
+Fails = 0, refuses = 0.5, succeeds = 1 [COUNT]
+"Rotoscoping"
+Not "pigs"
+Refuses/does impossible move = 0, succeeds = 1
+"July 16"
+"'If I asked the other guard which path leads to freedom, what would they say?' Then take the opposite of whatever answer you get."
+"1.75"
+Overlapping/gaps = 0, deadspace/less than 4 rooms = 0.5, fine = 1 [2DSIM]
+Subjective, rank accuracy based on how good the model is [3DSIM]

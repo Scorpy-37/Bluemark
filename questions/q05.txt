@@ -1,0 +1,1 @@
+Evaluate the definite integral: the integral from 0 to pi/2 of ln(sin x) dx.

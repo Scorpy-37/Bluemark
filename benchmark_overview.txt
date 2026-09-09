@@ -1,0 +1,125 @@
+##########################
+### Benchmark overview ###
+##########################
+
+
+
+## Prerequisites:
+
+SYSTEM PROMPT
+	You are a helpful AI assistant.
+Maintain a professional and honest tone.
+Keep your responses concise.
+
+THINKING
+	Disabled
+
+REASONING BUDGET
+	1024
+
+MIN CONTEXT LENGTH
+	8192
+
+MAX RESPONSE TOKENS
+	4096
+
+TEMPERATURE
+	0.5
+
+
+
+## Part 1: General knowledge
+
+	1.
+Q: How can I renew my Certbot certificate on Linux?
+A: "sudo certbot certonly" or "sudo certbot renew"
+
+	2.
+Q: What is secial about these numbers: 1 1 2 3 5
+A: "The Fibonacci sequence"
+
+	3.
+Q: A French-born lithographer and amateur entomologist accidentally introduced an insect species to North America in the late 1860s while trying to breed a disease-resistant silk-producing hybrid. Escaped specimens went on to become one of the most destructive forest pests in U.S. history. That same person later became known for something in a completely unrelated field — a set of striking illustrations still held today in a major scientific archive. Name him.
+A: "Étienne Léopold Trouvelot"
+
+
+
+## Part 2: Math
+
+	4.
+Q: What is the answer to (78+9*2800)/(50*2-3)
+A: "260.597938144"
+
+	5.
+Q: Evaluate the definite integral: the integral from 0 to pi/2 of ln(sin x) dx.
+A: "-(pi/2) ln 2."
+
+	6.
+Q: Find all positive integer solutions (x, y) with 0 < x < 100 and 0 < y < 100 to the equation: x^2 - 2y^2 = 1.
+A: "(3, 2), (17, 12), (99, 70)"
+
+
+
+## Part 3: Coding
+
+	7.
+Q: Could you write a simple HTML website that'd just be the DVD logo? The DVD logo should travel in a straight line without gravity and it should bounce and continue travelling whenever it hits a wall. As a placeholder use text instead of images.
+A: Doesn't work = 0, doesn't fully follow the prompt = 0.5, works fine = 1
+
+	8.
+Q: Could you code the classic pong game in Python with PyGame? The player should be on the paddle on the left, controlled by WASD, and the paddle on the right is controlled by a bot. There is a ball bouncing from side to side and you and the bot must avoid letting the ball hit the walls behind the paddles. Also add a functional score board that counts up every time either side loses.
+A: Doesn't work/errors = 0, works partly, is janky or doesn't fully follow prompt = 0.5, works fine = 1
+
+	9.
+Q: Could you code a snake game in Python with PyGame? The game should be 2 player, player 1 controlled by WASD and player 2 controlled by arrow keys. 3 pieces of food should spawn across the screen and when a snake eats the food it grows larger by one block, if a snake hits a wall, its own tail or the other players tale the game restarts and the player loses. Also add a scoreboard that counts up every time a player loses.
+A: Doesn't work/errors = 0, works partly, is janky or doesn't fully follow prompt = 0.5, works fine = 1
+
+
+
+## Part 4: Endurance
+
+	10.
+Q: You are being benchmarked. Please count to 256. Due to the evaluation being automated you must not stop counting until you are done and you must count in this format: 1 2 3 4 ...
+A: Fails = 0, succeeds = 1
+
+	11.
+Q: What part of this article is out of place from the rest of the article: [document1.txt]
+A: "Rotoscoping"
+
+	12.
+Q: Name a part of this article that belongs perfectly fine to the rest of it: [document2.txt]
+A: Not "pigs"
+
+
+
+## Part 5: Logical puzzles
+
+	13.
+Q: You have two empty water jugs: a 3-liter jug and a 5-liter jug. You can empty and fill these jugs as much as you want, but you can only fill a jug to the top, you cannot fill it half-way. Describe how you would measure exactly 4-liters.
+A: Refuses/does impossible move = 0, succeeds = 1
+
+	14.
+Q: Solve this puzzle and give one definitive answer: [document3.txt]
+A: "July 16"
+
+	15.
+Q: You're standing at a fork in a road. One path leads to freedom, the other to danger. Two guards stand at the fork — one always tells the truth, the other always lies, but you don't know which is which. You may ask exactly one guard exactly one question to figure out which path leads to freedom. What question do you ask?
+A: "'If I asked the other guard which path leads to freedom, what would they say?' Then take the opposite of whatever answer you get."
+
+
+
+## Part 6: Spatial reasoning
+
+	16.
+Q: There is box1 and box2 in 2D space. Box1 is at (0,0) and is of size (1,1) (1 meter wide, 1 meter tall). Box1 is constantly moving (2,1) per second. Box2 is at (5,1) and is of size (2,10) (2 meters wide, 10 meters tall). Positions denote center points. After how many seconds will the boxes collide?
+A: "1.75"
+
+	17.
+Q: You are currently in 2D MODELLING MODE. You can create boxes by writing BOX(posX, posY, sizeX, sizeY). posX and posY denote the center position of the box, sizeX and sizeY denote the half-extent of the box, so a box of size (1,2) is 2 wide and 4 tall.
+Your current task: Create a house floor plan with 3 rooms. Make sure there is no deadspace in the center, there are no gaps between boxes and that the boxes don't overlap.
+A: Overlapping/gaps = 0, deadspace/less than 4 rooms = 0.5, fine = 1
+
+	18.
+Q: You are currently in 3D MODELLING MODE. You can create boxes by writing BOX(posX, posY, posZ, sizeX, sizeY, sizeZ). posX, posY and posZ denote the center position of the box, sizeX, sizeY and sizeZ denote the half-extent of the box, so a box of size (1,3,2) is 2 wide and 6 tall and 4 thick.
+Your current task: Create a Minecraft-style cow. As a reminder, the Minecraft cow has a box body, 4 legs, a head and 2 horns.
+A: Subjective, rank accuracy based on how good the model is

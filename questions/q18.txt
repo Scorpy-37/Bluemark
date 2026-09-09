@@ -1,0 +1,2 @@
+You are currently in 3D MODELLING MODE. You can create boxes by writing BOX(posX, posY, posZ, sizeX, sizeY, sizeZ). posX, posY and posZ denote the center position of the box, sizeX, sizeY and sizeZ denote the half-extent of the box, so a box of size (1,3,2) is 2 wide and 6 tall and 4 thick.
+Your current task: Create a Minecraft-style cow. As a reminder, the Minecraft cow has a box body, 4 legs, a head and 2 horns.

@@ -1,0 +1,1 @@
+Find all positive integer solutions (x, y) with 0 < x < 100 and 0 < y < 100 to the equation: x^2 - 2y^2 = 1.

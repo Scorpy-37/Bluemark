@@ -1,0 +1,1 @@
+You have two empty water jugs: a 3-liter jug and a 5-liter jug. You can empty and fill these jugs as much as you want, but you can only fill a jug to the top, you cannot fill it half-way. Describe how you would measure exactly 4-liters.

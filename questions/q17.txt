@@ -1,0 +1,2 @@
+You are currently in 2D MODELLING MODE. You can create boxes by writing BOX(posX, posY, sizeX, sizeY). posX and posY denote the center position of the box, sizeX and sizeY denote the half-extent of the box, so a box of size (1,2) is 2 wide and 4 tall.
+Your current task: Create a house floor plan with 4 rooms. Make sure there is no deadspace in the center, there are no gaps between boxes and that the boxes don't overlap.

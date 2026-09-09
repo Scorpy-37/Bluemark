@@ -1,0 +1,13 @@
+Solve this puzzle and give one definitive answer:
+
+Friends Albert and Bernard met with Sheryl. They want to find out what her birthday is. Sheryl gave them a list of 10 possible dates:
+- May 15, May 16, May 19
+- June 17, June 18
+- July 14, July 16
+- August 14, August 15, August 17
+Sheryl seperately told Albert just the month and told Bernard only the day (number).
+Bernard and Albert met up and had the following conversation:
+- Albert: I don't know when Sheryl's birthday is but I do know that Bernard doesn't know either.
+- Bernard: Initially I didn't know when her birthday is but now I know.
+- Albert: Oh, well now I also know!
+When is Sheryl's birthday?
