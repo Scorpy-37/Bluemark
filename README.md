@@ -70,5 +70,5 @@ All primary settings are managed in `config.json`, which includes:
 
 *   **Scripts:** Written by Scorp37
 
-*   **README.md:** Written by Nemotron3.5 Bolt E4B.
+*   **README.md:** Written by Nemotron3.5 Bolt E4B
 
