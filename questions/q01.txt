@@ -1,1 +1,0 @@
-How can I renew my Certbot certificate on Linux?

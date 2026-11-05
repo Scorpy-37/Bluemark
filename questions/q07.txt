@@ -1,1 +1,0 @@
-Could you write a simple HTML website that'd just be the DVD logo? The DVD logo should travel in a straight line without gravity and it should bounce and continue travelling whenever it hits a wall. As a placeholder use text instead of images.

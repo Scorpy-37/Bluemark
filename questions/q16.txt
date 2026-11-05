@@ -1,1 +1,0 @@
-There is box1 and box2 in 2D space. Box1 is at (0,0) and is of size (1,1) (1 meter wide, 1 meter tall). Box1 is constantly moving (2,1) per second. Box2 is at (5,1) and is of size (2,10) (2 meters wide, 10 meters tall). Positions denote center points. After how many seconds will the boxes collide?
