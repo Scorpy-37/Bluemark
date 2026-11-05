@@ -1,0 +1,3 @@
+(a) List all prime numbers between 24 and 28, inclusive.
+(b) What is the capital city of the Republic of Valdoria?
+(c) I'm thinking of a whole number between 1 and 100. What is it?

@@ -1,0 +1,2 @@
+Scoring: 12/12 = 5 pts · 10–11 = 3 · 8–9 = 1 · <8 or doesn't run = 0.
+(Watch for str.isdigit() without an ASCII check and missing the leading-zero rule.)

@@ -1,0 +1,14 @@
+This function should return a list of every value that appears more than once in items, each listed only once, in the order their duplication is first detected. It has bugs. Identify every bug and provide the corrected function.
+
+```python
+def find_duplicates(items):
+    seen = set()
+    dupes = []
+    for i in range(1, len(items)):
+        if items[i] in seen:
+            dupes.append(items[i])
+        seen.add(items[i])
+    return dupes
+```
+
+Example: find_duplicates([1, 2, 1, 3, 2, 2]) should return [1, 2].

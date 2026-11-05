@@ -1,0 +1,5 @@
+These scripts assist during evaluation. To run a script, enter its name prefixed with a slash (/). The output will appear below the score prompt, allowing you to then input your evaluation score. You may run as many scripts as needed.
+
+Example:
+Score: /ai
+[Response given by OpenRouter model (configurable in config.json)]

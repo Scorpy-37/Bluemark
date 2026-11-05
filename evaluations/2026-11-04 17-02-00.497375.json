@@ -1,0 +1,65 @@
+{
+    "model": "qwen3.6-35b-a3b",
+    "scores": [
+        {
+            "ttc": 57,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 2,
+            "dnf": false,
+            "score": 5.0
+        },
+        {
+            "ttc": 51,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 8,
+            "dnf": false,
+            "score": 5.0
+        },
+        {
+            "ttc": 36,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 10,
+            "dnf": false,
+            "score": 5.0
+        },
+        {
+            "ttc": 49,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 30,
+            "dnf": false,
+            "score": 6.0
+        },
+        {
+            "ttc": 71,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 17,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 28,
+            "dnf": false,
+            "score": 3.0
+        },
+        {
+            "ttc": 20,
+            "dnf": false,
+            "score": 3.0
+        }
+    ]
+}

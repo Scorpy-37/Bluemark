@@ -1,0 +1,65 @@
+{
+    "model": "nvidia/nemotron-3-nano-4b",
+    "scores": [
+        {
+            "ttc": 9,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 1,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 1,
+            "dnf": false,
+            "score": 0.0
+        },
+        {
+            "ttc": 2,
+            "dnf": false,
+            "score": 5.0
+        },
+        {
+            "ttc": 25,
+            "dnf": false,
+            "score": 2.0
+        },
+        {
+            "ttc": 2,
+            "dnf": false,
+            "score": 5.0
+        },
+        {
+            "ttc": 10,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 1,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 4,
+            "dnf": false,
+            "score": 2.0
+        },
+        {
+            "ttc": 1,
+            "dnf": false,
+            "score": 3.0
+        },
+        {
+            "ttc": 1,
+            "dnf": false,
+            "score": 1.0
+        },
+        {
+            "ttc": 4,
+            "dnf": false,
+            "score": 1.0
+        }
+    ]
+}

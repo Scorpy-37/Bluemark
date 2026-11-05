@@ -1,0 +1,15 @@
+Answer — two bugs:
+
+1. range(1, ...) skips index 0, so items[0] is never added to seen (the duplicate 1 is missed).
+2. Values appearing 3+ times are appended repeatedly (2 appears twice in output).
+
+Buggy output is [2, 2]. Fixed:
+def find_duplicates(items):
+    seen, dupes = set(), []
+    for item in items:
+        if item in seen and item not in dupes:
+            dupes.append(item)
+        seen.add(item)
+    return dupes
+
+Scoring: 2 pts per bug correctly identified and fixed. Fix must produce [1, 2] on the example. (A model that rewrites with Counter and preserves order gets full marks only if it also names both bugs.)

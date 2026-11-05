@@ -1,0 +1,1 @@
+Write a Python function is_valid_ipv4(s: str) -> bool. A valid address is exactly four decimal groups separated by single dots, each group 0–255, with no leading zeros (so "01" is invalid but "0" is valid), no whitespace, no signs, and no other characters. Return only the code.

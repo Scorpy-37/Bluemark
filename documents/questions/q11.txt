@@ -1,0 +1,13 @@
+Below is a list of names in "Last, First" format with inconsistent capitalization and duplicates. Produce a deduplicated list (duplicates are case-insensitive) in "First Last" format with standard name capitalization, sorted alphabetically by last name, as a numbered list. Then state the total count.
+
+```
+smith, john
+Garcia, Maria
+SMITH, John
+lee, anna
+O'Brien, Patrick
+Garcia, maria
+Nguyen, Linh
+lee, Anna
+Zhang, Wei
+```

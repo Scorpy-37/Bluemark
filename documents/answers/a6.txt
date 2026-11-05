@@ -1,0 +1,16 @@
+Answer:
+{
+  "contact_name": "Jordan Blake",
+  "company": "Pinecrest Dental",
+  "account_id": "PC-4471",
+  "phone": "555-0142",
+  "ship_to": "Maple Street office",
+  "deadline": "2025-04-04",
+  "items": [
+    {"name": "nitrile gloves", "quantity": 20},
+    {"name": "disposable bibs", "quantity": 3}
+  ],
+  "cancelled_items": ["ultrasonic scaler tips"]
+}
+
+Scoring (1 pt each): valid parseable JSON with only JSON output · gloves = 20 (not 12) · deadline = 2025-04-04 · scaler tips in cancelled_items and absent from items · all other fields correct (ship_to Maple Street, phone, account).

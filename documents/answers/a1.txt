@@ -1,0 +1,7 @@
+Answer: $11.54
+
+Pencils: 9 × $0.40 = $3.60
+Pens: 6 × $0.75 = $4.50 → tax $0.36 → $4.86
+Total $8.46 → change $11.54
+
+Scoring: 4 = $11.54. 2 = correct pre-tax total ($8.10) or tax applied to everything ($11.35) — shows method, wrong reading. 0 = otherwise.

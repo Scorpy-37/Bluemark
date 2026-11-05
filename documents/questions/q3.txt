@@ -1,0 +1,10 @@
+Five runners — Ava, Ben, Cara, Dan, and Eve — finished a race in positions 1st through 5th with no ties.
+
+Ben finished immediately after Ava.
+Cara did not finish last.
+Dan finished before Ava.
+Eve finished either first or last.
+Cara finished before Dan.
+Ben did not finish last.
+
+Give the full finishing order, then state who finished 2nd.

@@ -1,0 +1,65 @@
+{
+    "model": "openai/gpt-oss-20b",
+    "scores": [
+        {
+            "ttc": 28,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 7,
+            "dnf": false,
+            "score": 5.0
+        },
+        {
+            "ttc": 29,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 8,
+            "dnf": false,
+            "score": 5.0
+        },
+        {
+            "ttc": 15,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 8,
+            "dnf": false,
+            "score": 5.0
+        },
+        {
+            "ttc": 14,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 14,
+            "dnf": false,
+            "score": 6.0
+        },
+        {
+            "ttc": 21,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 7,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 5,
+            "dnf": false,
+            "score": 3.0
+        },
+        {
+            "ttc": 11,
+            "dnf": false,
+            "score": 3.0
+        }
+    ]
+}

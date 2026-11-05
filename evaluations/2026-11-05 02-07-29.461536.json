@@ -1,0 +1,65 @@
+{
+    "model": "zai-org/glm-4.6v-flash",
+    "scores": [
+        {
+            "ttc": 42,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 41,
+            "dnf": false,
+            "score": 5.0
+        },
+        {
+            "ttc": 107,
+            "dnf": false,
+            "score": 0.0
+        },
+        {
+            "ttc": 30,
+            "dnf": false,
+            "score": 5.0
+        },
+        {
+            "ttc": 126,
+            "dnf": false,
+            "score": 0.0
+        },
+        {
+            "ttc": 30,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 124,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 47,
+            "dnf": false,
+            "score": 6.0
+        },
+        {
+            "ttc": 110,
+            "dnf": false,
+            "score": 0.0
+        },
+        {
+            "ttc": 100,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 56,
+            "dnf": false,
+            "score": 3.0
+        },
+        {
+            "ttc": 80,
+            "dnf": false,
+            "score": 2.0
+        }
+    ]
+}

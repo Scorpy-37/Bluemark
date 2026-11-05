@@ -1,0 +1,2 @@
+(a) How many positive integers less than 1000 are divisible by 3 or 5 but not by 15?
+(b) What is the sum of the digits of 2²⁰?

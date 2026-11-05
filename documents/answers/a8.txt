@@ -1,0 +1,6 @@
+Answers:
+(a) $0.10 (not the famous $0.05 — the prompt says the bat costs $1.00, not "$1.00 more than the ball")
+(b) The kilogram of feathers (1 kg ≈ 2.2 lb > 2 lb; not "the same")
+(c) 500 minutes (each machine makes 1 widget per 5 min; not the famous "5 minutes")
+
+Scoring: 2 pts each. This task strongly separates models that pattern-match memorized puzzles from models that actually read.

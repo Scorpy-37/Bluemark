@@ -1,0 +1,65 @@
+{
+    "model": "liquid/lfm2-24b-a2b",
+    "scores": [
+        {
+            "ttc": 47,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 3,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 20,
+            "dnf": false,
+            "score": 0.0
+        },
+        {
+            "ttc": 5,
+            "dnf": false,
+            "score": 5.0
+        },
+        {
+            "ttc": 15,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 7,
+            "dnf": false,
+            "score": 5.0
+        },
+        {
+            "ttc": 23,
+            "dnf": false,
+            "score": 2.0
+        },
+        {
+            "ttc": 7,
+            "dnf": false,
+            "score": 6.0
+        },
+        {
+            "ttc": 26,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 4,
+            "dnf": false,
+            "score": 3.0
+        },
+        {
+            "ttc": 6,
+            "dnf": false,
+            "score": 0.0
+        },
+        {
+            "ttc": 16,
+            "dnf": false,
+            "score": 3.0
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+Answers:
+(a) 400 — div by 3: 333; by 5: 199; by 15: 66. (333 + 199 − 66) − 66 = 400.
+(b) 31 — 2²⁰ = 1,048,576 → 1+0+4+8+5+7+6 = 31.
+
+Scoring: 2 pts each. Common wrong answers: (a) 466 (forgot to exclude multiples of 15) or 532 (double-counted); (b) wrong power value.

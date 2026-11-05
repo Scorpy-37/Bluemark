@@ -1,0 +1,1 @@
+Scoring: 1 point per rule satisfied (check each independently). Common failures: 4 or 6 words in sentence one, "lazy"/"gaze"/"doze" containing z, adding "Here's a short piece:" preamble.

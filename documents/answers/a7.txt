@@ -1,0 +1,5 @@
+Answer: A = [0, 1, 2, 10], n = 10
+
+Trace: [4] → [4,7] → n=2 → [1,4,7] → [1,4] → [1,4,2] → [2,4,1] → n=7 → [2,1] → [2,1,6] → [2,1,6,0] → [0,1,6,2] → n=10 → [0,1,2] → [0,1,2,10]
+
+Scoring: 4 = both correct. 2 = correct through step 12 ([0,1,6,2]) but wrong after. 0 = otherwise.

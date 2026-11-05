@@ -1,0 +1,17 @@
+Start with an empty list A and a counter n = 0. Apply these operations in order and report the final A and n.
+
+1. Append 4 to A.
+2. Append 7 to A.
+3. Increase n by the length of A.
+4. Insert 1 at the front of A.
+5. Remove the largest element from A.
+6. Append n to A.
+7. Reverse A.
+8. Set n to the sum of A.
+9. Remove the first occurrence of 4 from A.
+10. Append (n minus the last element of A) to A.
+11. If A has an odd number of elements, append 0; otherwise remove the last element.
+12. Swap the first and last elements of A.
+13. Increase n by the number of even elements in A (treat 0 as even).
+14. Remove every element greater than n/2.
+15. Append n to A.

@@ -1,0 +1,65 @@
+{
+    "model": "nanbeige4.2-3b",
+    "scores": [
+        {
+            "ttc": 32,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 1,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 44,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 10,
+            "dnf": false,
+            "score": 5.0
+        },
+        {
+            "ttc": 59,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 10,
+            "dnf": false,
+            "score": 5.0
+        },
+        {
+            "ttc": 54,
+            "dnf": false,
+            "score": 2.0
+        },
+        {
+            "ttc": 26,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 39,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 15,
+            "dnf": false,
+            "score": 2.0
+        },
+        {
+            "ttc": 14,
+            "dnf": false,
+            "score": 1.0
+        },
+        {
+            "ttc": 45,
+            "dnf": false,
+            "score": 3.0
+        }
+    ]
+}

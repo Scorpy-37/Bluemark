@@ -1,0 +1,65 @@
+{
+    "model": "mistralai/ministral-3-14b-reasoning",
+    "scores": [
+        {
+            "ttc": 41,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 2,
+            "dnf": false,
+            "score": 5.0
+        },
+        {
+            "ttc": 139,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 8,
+            "dnf": false,
+            "score": 5.0
+        },
+        {
+            "ttc": 33,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 12,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 75,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 35,
+            "dnf": false,
+            "score": 6.0
+        },
+        {
+            "ttc": 192,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 5,
+            "dnf": false,
+            "score": 3.0
+        },
+        {
+            "ttc": 5,
+            "dnf": false,
+            "score": 1.0
+        },
+        {
+            "ttc": 49,
+            "dnf": false,
+            "score": 3.0
+        }
+    ]
+}

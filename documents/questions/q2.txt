@@ -1,0 +1,7 @@
+Write about a cat in exactly three sentences. Rules:
+
+1. Sentence one must be exactly five words.
+2. Sentence two must contain the word "window".
+3. Sentence three must end with a question mark.
+4. The letter "z" must not appear anywhere in your output.
+5. Output only the three sentences — no title, no preamble, no quotes, no explanation.

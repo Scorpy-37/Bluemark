@@ -1,0 +1,5 @@
+Answer: Cara, Dan, Ava, Ben, Eve → Dan finished 2nd.
+
+(Chain Cara < Dan < Ava, Ben = Ava+1. If Eve is 1st, Ben is forced to 5th — contradiction. So Eve is 5th.)
+
+Scoring: 4 = full order correct. 2 = "Dan" correct but order has an error. 0 = otherwise.

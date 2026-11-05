@@ -1,0 +1,66 @@
+{
+	"max_tokens": 4096,
+	"thinking": false,
+	"temperature": 0,
+	
+	"system_prompt": "You are a helpful AI assistant.",
+	"address": "http://192.168.56.1:5566/v1/chat/completions",
+	
+	"models": [
+		"google/gemma-4-e4b",
+		"qwen/qwen3.5-9b",
+		"mistralai/ministral-3-14b-reasoning",
+		"openai/gpt-oss-20b",
+		"glm-4.7-flash-reap-23b-a3b",
+		"qwen3.6-35b-a3b",
+		"ornith-1.5-9b",
+		"nvidia/nemotron-3-nano-4b",
+		"minicpm5-2b",
+		"prism-ml/bonsai-27b",
+		"nvidia-nemotron-3.5-bolt-e4b",
+		"nanbeige4.2-3b",
+		"ornith-1.5-9b",
+		"zai-org/glm-4.6v-flash",
+		"google/gemma-4-12b-qat",
+		"liquid/lfm2-24b-a2b"
+	],
+	
+	"questions": [
+		["{file:documents/questions/q1.txt}", "{file:documents/answers/a1.txt}", 4],
+		["{file:documents/questions/q2.txt}", "{file:documents/answers/a2.txt}", 5],
+		["{file:documents/questions/q3.txt}", "{file:documents/answers/a3.txt}", 4],
+		["{file:documents/questions/q4.txt}", "{file:documents/answers/a4.txt}", 5],
+		["{file:documents/questions/q5.txt}", "{file:documents/answers/a5.txt}", 4],
+		["{file:documents/questions/q6.txt}", "{file:documents/answers/a6.txt}", 5],
+		["{file:documents/questions/q7.txt}", "{file:documents/answers/a7.txt}", 4],
+		["{file:documents/questions/q8.txt}", "{file:documents/answers/a8.txt}", 6],
+		["{file:documents/questions/q9.txt}", "{file:documents/answers/a9.txt}", 4],
+		["{file:documents/questions/q10.txt}", "{file:documents/answers/a10.txt}", 4],
+		["{file:documents/questions/q11.txt}", "{file:documents/answers/a11.txt}", 3],
+		["{file:documents/questions/q12.txt}", "{file:documents/answers/a12.txt}", 3]
+	],
+	
+	"model_names": {
+		"google/gemma-4-e4b":                     "Gemma4 E4B Q4_K_M",
+		"qwen/qwen3.5-9b":                        "Qwen3.5 9B Q4_K_M",
+		"mistralai/ministral-3-14b-reasoning":    "Ministral3 14B Reasoning Q4_K_M",
+		"openai/gpt-oss-20b":                     "GPT OSS 20B A4B MXFP4 (native)",
+		"glm-4.7-flash-reap-23b-a3b":             "GLM4.7 Flash REAP 23B A3B Q4_K_S",
+		"qwen3.6-35b-a3b":                        "Qwen3.6 35B A3B IQ3_S",
+		"ornith-1.5-9b":                          "Ornith1.5 9B Q4_K_M",
+		"nvidia/nemotron-3-nano-4b":              "Nemotron3 Nano 4B Q4_K_M",
+		"minicpm5-2b":                            "MiniCPM5 2B Q4_K_M",
+		"prism-ml/bonsai-27b":                    "Bonsai 27B Q1_0 (native)",
+		"nvidia-nemotron-3.5-bolt-e4b":           "Nemotron3.5 Bolt E4B Q4_K_M",
+		"nanbeige4.2-3b":                         "Nanbeige4.2 3B Q4_K_M",
+		"ornith-1.5-9b":                          "Ornith1.5 9B Q4_K_M",
+		"zai-org/glm-4.6v-flash":                 "GLM4.6V Flash 9B Q4_K_M",
+		"google/gemma-4-12b-qat":                 "Gemma4 12B QAT Q4_0 (native)",
+		"liquid/lfm2-24b-a2b":                    "LFM2 24B A2B Q4_K_M"
+	},
+	
+	"openrouter_address": "https://openrouter.ai/api/v1/chat/completions",
+	"openrouter_key": "YOUR_OPENROUTER_KEY_HERE",
+	"judge_model": "openai/gpt-6-luna",
+	"judge_system_prompt": "You are a strict, impartial grader for an LLM benchmark.\nYou will be used as a grading assistant during LLM benchmark evaluation.\n\nGrade ONLY against the reference answer and rubric. Do not reward length, confidence, or polish.\nPenalize anything the prompt forbade (preambles, extra sentences, wrong format) only as the rubric specifies.\nGrade the final answer.\n\nRespond like so:\nScore: <number>\nSummary: <2-3 sentences: what was right, what was wrong, why>"
+}

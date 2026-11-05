@@ -1,0 +1,65 @@
+{
+    "model": "nvidia-nemotron-3.5-bolt-e4b",
+    "scores": [
+        {
+            "ttc": 14,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 1,
+            "dnf": false,
+            "score": 5.0
+        },
+        {
+            "ttc": 12,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 5,
+            "dnf": false,
+            "score": 5.0
+        },
+        {
+            "ttc": 16,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 3,
+            "dnf": false,
+            "score": 5.0
+        },
+        {
+            "ttc": 13,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 5,
+            "dnf": false,
+            "score": 6.0
+        },
+        {
+            "ttc": 15,
+            "dnf": false,
+            "score": 2.0
+        },
+        {
+            "ttc": 1,
+            "dnf": false,
+            "score": 2.0
+        },
+        {
+            "ttc": 1,
+            "dnf": false,
+            "score": 1.0
+        },
+        {
+            "ttc": 7,
+            "dnf": false,
+            "score": 3.0
+        }
+    ]
+}

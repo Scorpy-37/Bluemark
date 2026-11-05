@@ -1,0 +1,10 @@
+Answer:
+1. Maria Garcia
+2. Anna Lee
+3. Linh Nguyen
+4. Patrick O'Brien
+5. John Smith
+6. Wei Zhang
+Total: 6
+
+Scoring: 3 = exactly correct. 2 = one error (e.g. "O'brien", wrong sort position). 1 = count correct but ≥2 errors. 0 = duplicates remain or count wrong.

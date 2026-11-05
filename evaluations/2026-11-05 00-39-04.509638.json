@@ -1,0 +1,65 @@
+{
+    "model": "minicpm5-2b",
+    "scores": [
+        {
+            "ttc": 5,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 0,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 9,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 1,
+            "dnf": false,
+            "score": 5.0
+        },
+        {
+            "ttc": 6,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 1,
+            "dnf": false,
+            "score": 3.0
+        },
+        {
+            "ttc": 6,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 2,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 4,
+            "dnf": false,
+            "score": 4.0
+        },
+        {
+            "ttc": 0,
+            "dnf": false,
+            "score": 1.0
+        },
+        {
+            "ttc": 0,
+            "dnf": false,
+            "score": 2.0
+        },
+        {
+            "ttc": 1,
+            "dnf": false,
+            "score": 1.0
+        }
+    ]
+}

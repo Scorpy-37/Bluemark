@@ -1,0 +1,5 @@
+Extract the information from the message below into JSON matching this exact schema. Use null for missing values. Dates must be ISO 8601 (YYYY-MM-DD). Cancelled items go only in cancelled_items, not in items. Output only the JSON.
+
+Schema: {"contact_name": str, "company": str, "account_id": str, "phone": str|null, "ship_to": str, "deadline": str, "items": [{"name": str, "quantity": int}], "cancelled_items": [str]}
+
+Message: "Hi, this is Jordan Blake from Pinecrest Dental (account PC-4471). Following up on our call: we need to bump the order of nitrile gloves from 12 boxes to twenty boxes, keep the 3 cases of disposable bibs as is, and please cancel the ultrasonic scaler tips entirely. Ship to the Maple Street office, not the main one. We need it by the 4th of next month — today is March 27, 2025. My cell is 555-0142 if anything comes up. Thanks!"
